@@ -1,0 +1,18 @@
+.vscode
+__pycache__
+venv
+CHANGE_LOG.txt
+.vscode
+err_record.log
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+env/
+frontend/node_modules/
